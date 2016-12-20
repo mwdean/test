@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E5A58A54-8921-45F5-97B9-08C3E8A25190}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="test/MyClass.cs">
+    <Files>
+      <File FileName="test/MyClass.cs" Line="7" Column="4" />
+      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.test.iOS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.test.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>

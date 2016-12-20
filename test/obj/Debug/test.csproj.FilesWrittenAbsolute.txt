@@ -1,0 +1,5 @@
+/Users/Michael/Projects/DotNet/test/test/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/Michael/Projects/DotNet/test/test/bin/Debug/test.dll.mdb
+/Users/Michael/Projects/DotNet/test/test/bin/Debug/test.dll
+/Users/Michael/Projects/DotNet/test/test/obj/Debug/test.dll
+/Users/Michael/Projects/DotNet/test/test/obj/Debug/test.dll.mdb
